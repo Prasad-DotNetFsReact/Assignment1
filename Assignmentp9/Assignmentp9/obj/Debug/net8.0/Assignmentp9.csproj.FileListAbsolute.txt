@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\bin\Debug\net8.0\Assignmentp9.exe
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\bin\Debug\net8.0\Assignmentp9.deps.json
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\bin\Debug\net8.0\Assignmentp9.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\bin\Debug\net8.0\Assignmentp9.dll
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\bin\Debug\net8.0\Assignmentp9.pdb
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.dll
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\refint\Assignmentp9.dll
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.pdb
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\Assignmentp9.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignmentp9\Assignmentp9\obj\Debug\net8.0\ref\Assignmentp9.dll

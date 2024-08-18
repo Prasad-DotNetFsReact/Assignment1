@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\bin\Debug\net8.0\Assignmentp4.exe
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\bin\Debug\net8.0\Assignmentp4.deps.json
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\bin\Debug\net8.0\Assignmentp4.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\bin\Debug\net8.0\Assignmentp4.dll
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\bin\Debug\net8.0\Assignmentp4.pdb
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.dll
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\refint\Assignmentp4.dll
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.pdb
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\Assignmentp4.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignmentp4\Assignmentp4\obj\Debug\net8.0\ref\Assignmentp4.dll

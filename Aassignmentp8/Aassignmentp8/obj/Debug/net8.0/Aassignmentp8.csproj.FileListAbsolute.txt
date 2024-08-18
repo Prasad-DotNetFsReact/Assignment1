@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\bin\Debug\net8.0\Aassignmentp8.exe
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\bin\Debug\net8.0\Aassignmentp8.deps.json
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\bin\Debug\net8.0\Aassignmentp8.runtimeconfig.json
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\bin\Debug\net8.0\Aassignmentp8.dll
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\bin\Debug\net8.0\Aassignmentp8.pdb
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.dll
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\refint\Aassignmentp8.dll
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.pdb
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\Aassignmentp8.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Aassignmentp8\Aassignmentp8\obj\Debug\net8.0\ref\Aassignmentp8.dll

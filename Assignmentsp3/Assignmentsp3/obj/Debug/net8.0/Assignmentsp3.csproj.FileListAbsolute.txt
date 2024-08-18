@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\bin\Debug\net8.0\Assignmentsp3.exe
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\bin\Debug\net8.0\Assignmentsp3.deps.json
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\bin\Debug\net8.0\Assignmentsp3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\bin\Debug\net8.0\Assignmentsp3.dll
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\bin\Debug\net8.0\Assignmentsp3.pdb
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.dll
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\refint\Assignmentsp3.dll
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.pdb
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\Assignmentsp3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignmentsp3\Assignmentsp3\obj\Debug\net8.0\ref\Assignmentsp3.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\bin\Debug\net8.0\Assignmentp10.exe
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\bin\Debug\net8.0\Assignmentp10.deps.json
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\bin\Debug\net8.0\Assignmentp10.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\bin\Debug\net8.0\Assignmentp10.dll
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\bin\Debug\net8.0\Assignmentp10.pdb
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.dll
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\refint\Assignmentp10.dll
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.pdb
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\Assignmentp10.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignmentp10\Assignmentp10\obj\Debug\net8.0\ref\Assignmentp10.dll

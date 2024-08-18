@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\bin\Debug\net8.0\Assignmentp7.exe
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\bin\Debug\net8.0\Assignmentp7.deps.json
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\bin\Debug\net8.0\Assignmentp7.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\bin\Debug\net8.0\Assignmentp7.dll
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\bin\Debug\net8.0\Assignmentp7.pdb
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.dll
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\refint\Assignmentp7.dll
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.pdb
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\Assignmentp7.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignmentp7\Assignmentp7\obj\Debug\net8.0\ref\Assignmentp7.dll
